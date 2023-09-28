@@ -8,3 +8,6 @@
 
 ### interfaces
 - Where I defined contructs that to be passed to stack props.
+
+### stacks
+- Where I put all of my nested stacks.
